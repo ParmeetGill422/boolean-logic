@@ -1,7 +1,7 @@
 public class Main {
     public static void ageCheck(int age) {
         int LIMIT = 18;
-        boolean isAdult = age >= LIMIT; 
+        boolean isAdult = age >= LIMIT;
 
         if(isAdult) {
             System.out.println("IS ADULT.");
